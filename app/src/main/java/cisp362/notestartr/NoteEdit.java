@@ -1,8 +1,8 @@
 package cisp362.notestartr;
 
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
+        import java.text.SimpleDateFormat;
+        import java.util.Date;
         import android.app.Activity;
         import android.app.AlertDialog;
         import android.content.Context;
@@ -207,6 +207,7 @@ public class NoteEdit extends Activity{
                     note.getColumnIndexOrThrow(NotesDbAdapter.KEY_BODY));
         }
     }
+
 
 
 }
