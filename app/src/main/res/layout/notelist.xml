@@ -5,6 +5,7 @@
     android:background="@drawable/notelist"
     >
 
+
     <TextView
         android:id="@+id/textViewTop"
         android:layout_width="fill_parent"

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">NoteStartr</string>
+    <string name="app_name">SwiftNote</string>
     <string name="about">About</string>
     <string name="title">Title : </string>
     <string name="menu_delete">Delete Item</string>
